@@ -52,7 +52,8 @@ Client → Proxy Server → Remote Web Server → Proxy → Client
 
 When the website is opened for the first time, the URL is not present in the cache.
 
-![Cache Miss Demo](demo.png)
+<img width="1117" height="608" alt="image" src="https://github.com/user-attachments/assets/0b55ee49-07d5-41e6-8dcd-9e38a8ae36fc" />
+
 
 Console output:
 - `URL not found`
